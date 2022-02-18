@@ -1,4 +1,4 @@
-Example status badge for this pipeline.
+![image](https://user-images.githubusercontent.com/99982793/154735659-6b4c117c-6452-4069-941e-f4786be3d1d9.png)
 
 # Contributing
 
